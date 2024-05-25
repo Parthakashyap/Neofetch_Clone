@@ -17,9 +17,9 @@ def get_os_info():
         'GitHub': 'https://github.com/Parthakashyap',
         'LinkedIn': 'https://www.linkedin.com/in/partha-pratim-kashyap/',
         'Email':'parthaforwork@outlook.com',
-        '🔧Languages':'🐍  Python 🧠  JavaScript 🖥️  C',
-        '🔧Frameworks': '⚛️  ReactJS 🍃  TailwindCSS',
-        '🔧Others':'🌶️  Flask ⚙️  Git 🐧  Linux',
+        '🔧 Languages':'🐍  Python 🧠  JavaScript 🖥️  C',
+        '🔧 Frameworks': '⚛️  ReactJS 🍃  TailwindCSS',
+        '🔧 Others':'🌶️  Flask ⚙️  Git 🐧  Linux',
     }
     
     return os_info
